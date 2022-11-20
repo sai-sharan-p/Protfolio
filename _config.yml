@@ -2,10 +2,12 @@ title: <p align="center"> Sai Sharan </p>
 logo: assets/img/WhatsApp Image 2022-04-11 at 6.29.36 PM.jpeg
 
 description:
-  <p align="center">
+---
+<p align="center">
   <a href="https://www.linkedin.com/in/sai-sharan-paspunuri/">LinkedIn</a> |
   <a href="https://drive.google.com/file/d/1uA-U25AaZ-RBpLsygIU6zrmbt6PIktqy/view?usp=sharing">Resume</a> |
   <a href="https://github.com/sai-sharan-p">GitHub</a>
+---
   <br>
   Hi, I'm a Data Scientist. Working on multiple projects which includes Nural Networks, Object Detection, 
   Data analysis using scikit learn, tensorflow, pyspark & more. I’m looking forward to work on various peojects in finance, investments & banking domain.
