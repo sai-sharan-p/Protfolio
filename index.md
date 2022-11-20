@@ -41,6 +41,6 @@ This case study is based on an ed-tech company. They are trying to maximise thei
 
 In order to help the company we have used their previous year data and implemented a machine learning model - Logistic Regression to calculate the scores of the leads. Suppofe if the lead has a higher score, that means that they are more like to purchase a course from them.
 
-<center><img src="Leads-to-qualified-leads-ratio"/></center>
+<center><img src="Leads-to-qualified-leads-ratio.jpg"/></center>
 
 ---
