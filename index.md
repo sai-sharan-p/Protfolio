@@ -1,6 +1,6 @@
 # Data Science Portfolio
 ---
-## Machine learning
+## Data Analysis & Machine learning 
 
 ### Loan Eligibility Assesment - Bank Case Study
 
