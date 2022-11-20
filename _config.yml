@@ -13,5 +13,7 @@ description:
   <br>
   </p>
 
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/sai-sharan-p)
+
 
 theme: jekyll-theme-minimal
