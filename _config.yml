@@ -11,9 +11,7 @@ description:
   Hi, I'm a Data Scientist. Working on multiple projects which includes Nural Networks, Object Detection, 
   Data analysis using scikit learn, tensorflow, pyspark & more. I’m looking forward to work on various peojects in finance, investments & banking domain.
   <br>
+  [![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/sai-sharan-p)
+  <br>
   </p>
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/sai-sharan-p)
-
-
-theme: jekyll-theme-minimal
