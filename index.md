@@ -13,8 +13,8 @@ As expected, store sales are influenced by many factors, including promotional c
 With thousands of individual managers predicting sales based on their unique circumstances and intuitions, the accuracy of the forecasts is quite varied. To overcome this problem, we are tasked to work on the forecasting problem. As part of this project, we will be building a forecasting model to forecast the daily sales for the next six weeks.
 
 <center><img src="assets/img/rossman.jpeg"/></center>
----
 
+---
 ### Movie production recommendation using SQL
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sai-sharan-p/Movie-production-recommendation-using-SQL)
