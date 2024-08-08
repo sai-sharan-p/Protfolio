@@ -2,14 +2,17 @@
 ---
 ## Data Analysis & Machine learning projects
 ---
-### Loan Eligibility Assesment - Bank Case Study
+### Sales Forecating for Rossman Drug Distribution
 
-This case study aims to give you an idea of applying EDA in a real business scenario. In this case study, apart from applying the EDA techniques, I have also implemented a few basic risk analytics in banking and financial services and understand how data is used to minimize the risk of losing money while lending to customers.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sai-sharan-p/Sales-Forecasting-for-Rossman-Drug-Distribution)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sai-sharan-p/Bank_Loan_Application_Assesment)
+Rossmann is a European drug distributor which operates over 3,000 drug stores across seven European countries. Since a lot of drugs come with a short shelf life, that is, they do not have a long expiry date, it becomes imperative for Rossmann to accurately forecast sales at their individual stores. Currently, the forecasting is taken care of by the store managers who are tasked with forecasting daily sales for the next six weeks. 
 
-<center><img src="assets/img/lending-funds.jpg"/></center>
+As expected, store sales are influenced by many factors, including promotional campaigns, competition, state holidays, seasonality, and locality.
 
+With thousands of individual managers predicting sales based on their unique circumstances and intuitions, the accuracy of the forecasts is quite varied. To overcome this problem, we are tasked to work on the forecasting problem. As part of this project, we will be building a forecasting model to forecast the daily sales for the next six weeks.
+
+<center><img src="assets/img/rossman.jpeg"/></center>
 ---
 ### Movie production recommendation using SQL
 
@@ -44,3 +47,11 @@ In order to help the company we have used their previous year data and implement
 <center><img src="assets/img/what-is-lead-qualification-01-1.jpg"/></center>
 
 ---
+
+### Loan Eligibility Assesment - Bank Case Study
+
+This case study aims to give you an idea of applying EDA in a real business scenario. In this case study, apart from applying the EDA techniques, I have also implemented a few basic risk analytics in banking and financial services and understand how data is used to minimize the risk of losing money while lending to customers.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sai-sharan-p/Bank_Loan_Application_Assesment)
+
+<center><img src="assets/img/lending-funds.jpg"/></center>
