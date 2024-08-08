@@ -2,7 +2,7 @@
 ---
 ## Data Analysis & Machine learning projects
 ---
-### Sales Forecating for Rossman Drug Distribution
+### Sales Forecating for Rossmann Drug Distribution
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sai-sharan-p/Sales-Forecasting-for-Rossman-Drug-Distribution)
 
