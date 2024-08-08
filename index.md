@@ -14,6 +14,7 @@ With thousands of individual managers predicting sales based on their unique cir
 
 <center><img src="assets/img/rossman.jpeg"/></center>
 ---
+
 ### Movie production recommendation using SQL
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sai-sharan-p/Movie-production-recommendation-using-SQL)
