@@ -1,6 +1,6 @@
 # Data Science Portfolio
 ---
-## Machine learning projects
+## Machine Learning Projects
 ---
 ### Sales Forecating for Rossmann Drug Distribution
 
